@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "68885799786",
+    "firebase_url": "https://inv-tottus-default-rtdb.firebaseio.com",
+    "project_id": "inv-tottus",
+    "storage_bucket": "inv-tottus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68885799786:android:fd05b6de6c3587da407b13",
+        "android_client_info": {
+          "package_name": "com.inventario.invtottus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68885799786-n8g908cbl53v02jlkos0doerh1gsmhav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inventario.invtottus",
+            "certificate_hash": "028cb1101499a2e99474247e93b4bc0ec8e4f7a9"
+          }
+        },
+        {
+          "client_id": "68885799786-9t7jgqj06f2f6puanb20vto1g7s7fr5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACu9nmRP5C6Ocp3f8gCeKxe9dCReUF1Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68885799786-9t7jgqj06f2f6puanb20vto1g7s7fr5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68885799786-2fb9l9rkfe7ntl7te6ki8j75p1a246p3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inventario.invtottus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
